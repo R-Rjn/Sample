@@ -1,3 +1,2 @@
-# Sample
-my file 
+# Sample 
 THIS IS A TESTING FILE!
